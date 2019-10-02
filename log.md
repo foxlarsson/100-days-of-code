@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
+My format for the challenge is commiting at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished Step 1 – A Gentle Introduction, Step 3 Introduction to Computation and Programming – Overview, Started Step 4 - Problem Solving Expression (did Step 2 - Setup Your Development Machine yesterday).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Seems like just the kind of foundation I've been struggling with finding. I don't know how code and web dev will relate to my art, but I hope at some point those two lines will merge.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Currently at](https://knowthecode.io/labs/problem-solving-expression/episode-2)
