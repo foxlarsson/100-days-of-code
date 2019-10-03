@@ -8,7 +8,7 @@ My format for the challenge is commiting at least 15 minutes for 100 days to wor
 
 **Thoughts:** Seems like just the kind of foundation I've been struggling with finding. I don't know how code and web dev will relate to my art, but I hope at some point those two lines will merge.
 
-**Link to work:** [Currently at](https://knowthecode.io/labs/problem-solving-expression/episode-2)
+**Link to work:** [Current NKC video](https://knowthecode.io/labs/problem-solving-expression/episode-2)
 
 
 ### Day 1: October 2, 2019
@@ -18,12 +18,25 @@ J ended up doing most of the work for the function to rewrite the People CPT tit
 
 **Thoughts:** Seems like just the kind of foundation I've been struggling with finding. I don't know how code and web dev will relate to my art, but I hope at some point those two lines will merge.
 
-**Link to work:** [Currently at](
+**Link to work:** [Current NKC video](
+http://knowthecode.io/labs/problem-solving-expression/episode-4)
+
+
+### Day 2: October 3, 2019
+ 
+**Today's Progress**: 
+Watched:
+  - Computational thinking: Pseudocode; => finished Step 5
+  - Types of data: Lab introduction, Primitive Data Type, Composite Data Type, Special Data Type, Abstract Data Type; => finished Step 6
+  - Building blocks of programming: 
+ 
+
+**Thoughts:** 
+
+**Link to work:** [Current NKC video](
 http://knowthecode.io/labs/problem-solving-expression/episode-4)
 
 
 
 
 
-
-http://knowthecode.io/labs/problem-solving-expression/episode-3
