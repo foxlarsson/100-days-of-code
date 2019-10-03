@@ -28,7 +28,7 @@ http://knowthecode.io/labs/problem-solving-expression/episode-4)
 Watched:
   - Computational thinking: Pseudocode; => finished Step 5
   - Types of data: Lab introduction, Primitive Data Type, Composite Data Type, Special Data Type, Abstract Data Type; => finished Step 6
-  - Building blocks of programming: 
+  - Building blocks of programming: Lab Introduction,
  
 
 **Thoughts:** 
