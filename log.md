@@ -28,10 +28,11 @@ http://knowthecode.io/labs/problem-solving-expression/episode-4)
 Watched:
   - Computational thinking: Pseudocode; => finished Step 5
   - Types of data: Lab introduction, Primitive Data Type, Composite Data Type, Special Data Type, Abstract Data Type; => finished Step 6
-  - Building blocks of programming: Lab Introduction,
+  - Building blocks of programming: Lab Introduction, User-Friendly Expression of Information, Fundamentals of Syntax, Decision branching - if/then/else, Decision branching - switch/case
  
 
 **Thoughts:** 
+It's a bit hard to focus today, I'm in a jittery state because my sleep cycle is very off, and the videos today don't require any actions, just focusing on the info. But I've managed to finish steps five anad six, and should be done with seven soon, and after that it gets more hands-on.
 
 **Link to work:** [Current NKC video](
 http://knowthecode.io/labs/problem-solving-expression/episode-4)
