@@ -52,6 +52,31 @@ Also, I need to stop procrastinating my work project, so I'm pausing my studies 
 https://knowthecode.io/labs/building-blocks-of-programming/episode-10)
 
 
+### Day 4: October 5, 2019
+ 
+**Today's Progress**: 
+Zoomed through the 24 levels of Flexbox Froggy to refresh Flexbox. 
+
+**Thoughts:** 
+Needed Flexbox for my work project (the employee profiles and contact information are displayed on cards that it makes sense to use Flexbox with). Then spent most of the night fixing the AAA plugin for bark. But in truth saying J. did most of the work is an understatement. Though my basic idea was true, I could never have figured out the kink that was in the way without him. But I learned a lot watching him work, problem solve and troubleshoot.
+
+
+
+**Link to work:** [Flexbox Froggy](https://flexboxfroggy.com/)
+
+### Day 5: October 6, 2019
+ 
+**Today's Progress**: 
+
+
+**Thoughts:** 
+
+
+
+
+**Link to work:** []()
+
+
 
 
 
