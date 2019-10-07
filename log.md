@@ -79,6 +79,18 @@ Also wrote up the basics of the program for the Websites for Artists project K. 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 
 
+### Day 6: October 7, 2019
+ 
+**Today's Progress**: 
+Round 4 of Flexbox Zombies. 
+
+**Thoughts:** 
+
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+
+
 
 
 
