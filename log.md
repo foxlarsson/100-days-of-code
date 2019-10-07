@@ -67,14 +67,16 @@ Needed Flexbox for my work project (the employee profiles and contact informatio
 ### Day 5: October 6, 2019
  
 **Today's Progress**: 
-
+Got through three rounds of Flexbox Zombies. 
 
 **Thoughts:** 
+The Beginner track says to brush up on html, css and basic javascript before going further, and flexbox is one of those things that I can't get to comfortably using without looking stuff up in the manual constantly. And since I'll be building a few Flexbox-based layouts on the deviz website this week and the coming one, I thought it made sense to get Flexbox to an automatic level, so I don't have to think about it or look it up constantly.
+Other than that writing up my monthly report for deviz, need that thing done by morning. As I was writing it, I discovered that I'd lost the half the work I'd done on the job opening page templates. I still have the css, but my php templates are gone (my bad, lost them while reinstalling Local). I am hoping to get comfortable using Git within the coming couple of weeks so something like that never happens again.
+
+Also wrote up the basics of the program for the Websites for Artists project K. and I will be doing. That's not part of my studies, but it's part of me both as an artist, and a developer, so it's important.
 
 
-
-
-**Link to work:** []()
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 
 
 
