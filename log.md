@@ -99,6 +99,21 @@ Got some drawing done (even with the studies and work and the sleep|non sleep th
                   [Lambda School](https://apply.lambdaschool.com/)
 
 
+### Day 6: October 7, 2019
+ 
+**Today's Progress**: 
+Rounds 6-7 of Flexbox Zombies (flex-shrink and flex-basis). 
+Lambda school Precourse: Introduction to CSS.
+Know the Code: Simply Git: Lab introduction
+
+**Thoughts:** 
+It's a bit hard to eyeball the ratios for the shrinking/growing zombies, so with this round a lot of the time I have to try over and over again to get it right. I get the principle, but keep estimating the values wrong.
+
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+                  [Lambda School](https://apply.lambdaschool.com/)
+                  [Current KTC video](https://knowthecode.io/labs/simply-git/what-is-git)
 
 
 
