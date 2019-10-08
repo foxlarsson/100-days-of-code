@@ -82,13 +82,21 @@ Also wrote up the basics of the program for the Websites for Artists project K. 
 ### Day 6: October 7, 2019
  
 **Today's Progress**: 
-Round 4 of Flexbox Zombies. 
+Rounds 4-5 of Flexbox Zombies (align-self, flex-grow). 
+Lambda school Precourse: Introduction to web development fundamentals.
+Lambda school Precourse: Introduction to HTML.
 
 **Thoughts:** 
+I found out that Lambda school ISA is unavailable in Russia halfway through the application process. That makes perfect sense, really, why would it be, but I was really upset. For a moment I felt like maybe I didn't have to go through this alone. The structure and the mentoring and the support were such an appealing prospect. But obviously there's no world in which I can afford the $20k payment without the ISA. 
+I decided to go through the Precourse either way. It has all the things I need to refresh for Know the Code, so it's as good a place as any.
 
+Made some progress on the websites for artists program with K. Finished the report for work but didn't find it in me to redo the lost template, mostly because I was unwell from the erratic sleep (and lack thereof). Planning to get up in an hour or so and get that done.
+
+Got some drawing done (even with the studies and work and the sleep|non sleep thing).
 
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+                  [Lambda School](https://apply.lambdaschool.com/)
 
 
 
