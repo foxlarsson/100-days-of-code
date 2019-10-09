@@ -99,21 +99,28 @@ Got some drawing done (even with the studies and work and the sleep|non sleep th
                   [Lambda School](https://apply.lambdaschool.com/)
 
 
-### Day 6: October 7, 2019
+### Day 7: October 8, 2019
  
 **Today's Progress**: 
 Rounds 6-7 of Flexbox Zombies (flex-shrink and flex-basis). 
 Lambda school Precourse: Introduction to CSS.
-Know the Code: Simply Git: Lab introduction
+Know the Code: Simply Git: Lab introduction, The Big Picture, 3 Locals - Working, Staging & Storage.
 
 **Thoughts:** 
 It's a bit hard to eyeball the ratios for the shrinking/growing zombies, so with this round a lot of the time I have to try over and over again to get it right. I get the principle, but keep estimating the values wrong.
 
+I rewrote my lost templates today, and I was much faster and better this time, and I think my code was cleaner too.  Went over what I need to write up my online store proposal for D. Writing that in the morning. 
+
+Watched the free part (first three videos) of the Simply Git lab on KTC, hoping to start using version control within a week. At least in a very basic way.
+
+It's impressive how much the zombie game is helping me with the Flexbox logic, it really made putting together the new template a lot easier.
+
+I am writing here both about study and work, because the two end up being intertwined. Also managed to finish another square pic today.
 
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
                   [Lambda School](https://apply.lambdaschool.com/)
-                  [Current KTC video](https://knowthecode.io/labs/simply-git/what-is-git)
+                  [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
 
 
