@@ -123,5 +123,17 @@ I am writing here both about study and work, because the two end up being intert
                   [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
 
+### Day 7: October 8, 2019
+ 
+**Today's Progress**: 
+Round 8 of Flexbox Zombies (order). 
+Know the Code: Tune PhpStorm for WordPress DevelopWhy You Need PhpStorm; Setup the Sandbox Site; Tune the Look; Be Faster with Keymappings; Split-Screen Coding Windows; Enable WordPress & Jump to Hook; Jump to Function; WordPress Coding Standard; Configuring to Other Coding Standards; Autocompletions. Inline and Online Documentation.; Function DocBlock Template; Selecting Multiple Instances (Multi-Cursor); Shortcuts & Snippets (Live Templates); Refactoring Tools;
+
+**Thoughts:** 
+I was so tired I fell right asleep and didn't even tweet my progress or write up my thoughts. (written on day 8)
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
+
 
 
