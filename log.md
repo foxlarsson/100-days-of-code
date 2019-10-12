@@ -135,5 +135,29 @@ I was so tired I fell right asleep and didn't even tweet my progress or write up
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
+### Day 8: October 9, 2019
+ 
+**Today's Progress**: 
+Round 8 of Flexbox Zombies (order). 
+Know the Code: Simply Git: Git Init – Put New Project into Version Control; Original Theme Snapshot – Your First Commit;
+
+**Thoughts:** 
+Was tired after D. meeting and transporting my sculptures, so went right to sleep. (written on day 9)
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
+
+### Day 8: October 9, 2019
+ 
+**Today's Progress**: 
+Round 9 of Flexbox Zombies (flex-wrap). 
+Know the Code: Simply Git: Git Add – Stage Small Changes;
+
+**Thoughts:** 
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
+
+
 
 
