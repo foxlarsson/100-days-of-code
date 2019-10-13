@@ -123,7 +123,7 @@ I am writing here both about study and work, because the two end up being intert
                   [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
 
-### Day 7: October 8, 2019
+### Day 7: October 9, 2019
  
 **Today's Progress**: 
 Round 8 of Flexbox Zombies (order). 
@@ -135,7 +135,7 @@ I was so tired I fell right asleep and didn't even tweet my progress or write up
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
-### Day 8: October 9, 2019
+### Day 8: October 10, 2019
  
 **Today's Progress**: 
 Round 8 of Flexbox Zombies (order). 
@@ -147,7 +147,7 @@ Was tired after D. meeting and transporting my sculptures, so went right to slee
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
 
-### Day 8: October 9, 2019
+### Day 8: October 11, 2019
  
 **Today's Progress**: 
 Round 9 of Flexbox Zombies (flex-wrap). 
@@ -157,6 +157,37 @@ Know the Code: Simply Git: Git Add – Stage Small Changes;
 
 
 **Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/simply-git/big-picture)
+
+
+
+### Day 9: October 12, 2019
+ 
+**Today's Progress**: 
+Round 10 of Flexbox Zombies (shorthand). 
+Know the Code: Simply Git: Git Add – Stage Small Changes;
+
+**Thoughts:** 
+(Written on day 10): managed to struggle through about half an hour of Flexbox Zombies. I was extremely tired, so when I felt I was no longer being productive in the least I gave up and went to sleep. Better today though, got a full night's rest.
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+
+
+### Day 10: October 13, 2019
+ 
+**Today's Progress**: 
+Round 11 of Flexbox Zombies (shorthand). 
+Know the Code: Simply Git: Store & Document a Snapshot; Git Status – View State of Working & Staging; Git Log - View History; Unstage Changes; Rollback Changes in Working Directory; Fix the Last Commit Message; Add More Changes to Last Commit; Uncommit Last Commit;
+
+**Thoughts:** 
+Git is starting to make more sense. Practicing more tomorrow. Flexbox is feeling better too, but I feel like when I'm done with the Zomibe game, I need to find either some assignments to practice Flexbox, or come up with a project. A way to put it into real-life practice, but in a way that allows to practice bit by bit.
+
+
+
+**Link to work:** [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies), [Current KTC video](https://knowthecode.io/labs/git-contributing/contributors-workflow-big-picture)
+
+
+
 
 
 
