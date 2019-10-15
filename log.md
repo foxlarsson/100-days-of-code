@@ -2,6 +2,17 @@
 
 My format for the challenge is commiting at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
 
+### Day 14: October 15, 2019
+ 
+**Today's Progress**: 
+KTC: PHP 101: Gentle Introduction to WordPress Programming: Lab Introduction; What is PHP? Why use it?; Why and how does WordPress use PHP?; Syntax Basics;
+
+**Thoughts:** 
+It's things I'm already using, but I wanted to see them explained and laid out in detail before I dive into anything more complicated, and Tonya does recommend to  complete the beginner track before diving into the theme development track.
+I might be doing a project together with my brother, and it would be cool to use that as a place to try out my Genesis customization track finds.
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-5)
+
 ### Day 13: October 14, 2019
  
 **Today's Progress**: 
