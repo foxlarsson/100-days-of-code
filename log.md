@@ -2,12 +2,24 @@
 
 My format for the challenge is commiting at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
 
+### Day 16: October 17, 2019
+ 
+**Today's Progress**: 
+KTC: PHP 101: To Run or Not to Run – Making Decisions; Sequencing – Yup, code runs in order; Repeating code using Loops; Building Strings with Dots and Variables;
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-13)
+
+
+
 ### Day 15: October 16, 2019
  
 **Today's Progress**: 
 KTC: PHP 101: Gentle Introduction to WordPress Programming: What’s the deal with Variables?; Break Up Code into Logical Parts; Subroutines – Behold the function; Loading Files to Run;
 
-**Thoughts:** 
+**Thoughts:** (written on day 16) Too tired for thoughts.
 
 
 **Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-5)
