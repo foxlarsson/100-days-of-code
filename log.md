@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-My format for the challenge is commiting at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
+My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
+
+### Day 17: October 18, 2019
+ 
+**Today's Progress**: 
+KTC: PHP 101: What's the deal with scope?; Naming Stuff; Putting it All Together; Where do I go from here?;
+
+KTC: Let’s Build a WordPress Starter Sandbox Plugin: Lab Introduction; Plugin File and Folder Structure; Plugin Header DocBlock; What is a DocBlock?; Setup Composer in Your Plugin; Introduction to Kint; Introduction to Whoops;
+
+**Thoughts:** (written on day 18) I was almost done with the plugin, but then I was suddenly exhausted (I don't know whether it was organically or I somehow took my pills wrong) and had to emergency crash. Can't get my Whoops to autoload for some reason. Hope to fix that today.
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-13)
+
+
 
 ### Day 16: October 17, 2019
  
