@@ -2,6 +2,50 @@
 
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
 
+
+### Day 20: October 21, 2019
+ 
+**Today's Progress**: 
+KTC: Overview of the Genesis Framework – Developer’s Guide to Customizing Genesis: Web Page Sequence – in the Code; The Intent of HTML and its Markup; The Intent of the Theme; WordPress Event (Plugin API) Refresher; Visual Hook Guide and the HTML – Header;
+
+Docx: WordPress add_action, the What & Syntax; WordPress remove_action, the What & Syntax; WordPress add_filter, the What & Syntax; WordPress remove_filter, the What & Syntax; WordPress do_action, the What & Syntax; WordPress apply_filters, the What & Syntax;
+
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-4)
+
+
+
+
+### Day 19: October 20, 2019
+ 
+**Today's Progress**: 
+Had trouble with starter plugin. Turns out if I use a kint d() in the plugin file and go to the admin area, that causes the site to crash, though the same d() on a regular page is fine. Took me a while to figure out, but at least I now know what's wrong and can continue.
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-13)
+
+
+
+
+### Day 18: October 19, 2019
+ 
+**Today's Progress**: 
+KTC: Let’s Build a WordPress Starter Sandbox Plugin: Let's test it out; 
+
+KTC: Overview of the Genesis Framework – Developer’s Guide to Customizing Genesis: Lab Introduction; The Why of the Genesis Framework; Web Page Sequence;  
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-13)
+
+
+
 ### Day 17: October 18, 2019
  
 **Today's Progress**: 
@@ -24,7 +68,7 @@ KTC: PHP 101: To Run or Not to Run – Making Decisions; Sequencing – Yup, cod
 **Thoughts:** 
 
 
-**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-101-gentle-introduction-wordpress-programming/episode-13)
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/lets-build-wordpress-starter-plugin/episode-8  )
 
 
 
