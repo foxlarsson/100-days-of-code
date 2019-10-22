@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
-My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days wil. l be out on January 9th - or on February 18th if I count the weekends.
+My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
+
+
+### Day 20: October 21, 2019
+ 
+**Today's Progress**: 
+KTC: Visual Hook Guide and the HTML – Content; Visual Hook Guide and the HTML – Sidebar; Visual Hook Guide and the HTML – Footer;
+
+Docx:
+
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-8)
+
 
 
 ### Day 20: October 21, 2019
@@ -12,9 +27,12 @@ Docx: WordPress add_action, the What & Syntax; WordPress remove_action, the What
 
 
 **Thoughts:** 
+I am diving into understanding how Genesis works. I am glad that Tonya is dedicating so much attention to architecture and sound coding practices.
+Depending on how I'm feeling, I sometimes start worrying a lot that my progress is too slow, and that I should know everything while I know next to nothing. That makes me panic and almost want to give up.
+So this whole thing with being part of the challenge helps. It allows to feel that I've made some progress: showed up for another one of the hundred days and did my thing.
 
 
-**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-4)
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-8)
 
 
 
@@ -23,6 +41,7 @@ Docx: WordPress add_action, the What & Syntax; WordPress remove_action, the What
  
 **Today's Progress**: 
 Had trouble with starter plugin. Turns out if I use a kint d() in the plugin file and go to the admin area, that causes the site to crash, though the same d() on a regular page is fine. Took me a while to figure out, but at least I now know what's wrong and can continue.
+Didn't have time for any actual studying, because I was traveling from Petro to St. Pete and then catching my breath.
 
 **Thoughts:** 
 
