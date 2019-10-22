@@ -3,18 +3,20 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
-### Day 20: October 21, 2019
+### Day 21: October 22, 2019
  
 **Today's Progress**: 
 KTC: Visual Hook Guide and the HTML – Content; Visual Hook Guide and the HTML – Sidebar; Visual Hook Guide and the HTML – Footer;
 
-Docx:
+Docx: -
 
 
 **Thoughts:** 
+I think after I get through this lab I should spend some extra time just going through the theme code and the markup on the actual pages, so I become more confident in my understanding of what happens where. The way everything is broke up is also making me wonder what the best strategy for work is if you have a photoshop template that you are translating to genesis. First creating the layout in html/css, then breaking it up into all the blocks?
+I have my presentation at D. tomorrow, and I've been unwell all day, barely managed to even watch those three videos. I think I will now get some rest (1-2 hours) and then just work on my presentation till morning. I need to focus not on making it perfect, but on simply getting it done.
 
 
-**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-8)
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-12)
 
 
 
