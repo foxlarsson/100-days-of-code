@@ -3,10 +3,28 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 22: October 23, 2019
+ 
+**Today's Progress**: 
+KTC: Overview of the Genesis Framework – Developer’s Guide to Customizing Genesis: File Architecture; Codebase Architecture; Event Naming Convention; Initializing Genesis; Setting Up Genesis; Wrap it Up;
+
+KTC: PHP Variables Bootcamp: PHP Variables Introduction;
+
+Docx: -
+
+
+**Thoughts:** 
+I've finished the beginner's track!!!
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-12)
+
+
+
 ### Day 21: October 22, 2019
  
 **Today's Progress**: 
-KTC: Visual Hook Guide and the HTML – Content; Visual Hook Guide and the HTML – Sidebar; Visual Hook Guide and the HTML – Footer;
+KTC: Overview of the Genesis Framework – Developer’s Guide to Customizing Genesis: Visual Hook Guide and the HTML – Content; Visual Hook Guide and the HTML – Sidebar; Visual Hook Guide and the HTML – Footer; Initialize & Setup Overview;
 
 Docx: -
 
