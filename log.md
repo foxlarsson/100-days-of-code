@@ -3,6 +3,44 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 24: October 25, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP Variables Bootcamp: PHP Variables Intent and Naming; Variable Scope; Function Parameters; Variable – PHP Internals; Global Variables
+
+Docx: -
+
+
+**Thoughts:** 
+
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-variables-bootcamp/episode-6)
+
+
+
+### Day 23: October 24, 2019
+ 
+**Today's Progress**: 
+
+KTC: Let’s Build a PHP (Non-WordPress) Sandbox: Lab Introduction; Spin Up the Web Server; Folder Structure; Setup Composer in Your Plugin; Introduction to Whoops; Introduction to Kint;
+
+KTC: PHP Variables Bootcamp: 
+
+Docx: -
+
+
+**Thoughts:** 
+Got stuck because composer kept creating my vendor folder in the wrong location. Good thing I had already done composer setup in the plugin lab, ended up comparing the files line for line. Turned out my config somehow ended up inside the autoload brackets. Glad I figured that out.
+
+Finished setting up my non-wordpress sandbox.
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/developers-guide-customizing-genesis-overview/episode-12)
+
+
+
 ### Day 22: October 23, 2019
  
 **Today's Progress**: 
