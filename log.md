@@ -3,6 +3,21 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 26: October 27, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP conditional expressions: Anatomy of a Conditional Expression; Falsey Conditional Expression; Functions in the Conditional Expression; Assignment in the Conditional Expression; 
+
+Docx: -
+
+
+**Thoughts:** 
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-variables-bootcamp/episode-14)
+
+
+
 ### Day 25: October 26, 2019
  
 **Today's Progress**: 
