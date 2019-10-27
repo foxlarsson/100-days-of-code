@@ -3,11 +3,29 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 25: October 26, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP Variables Bootcamp: Static Variables; Static Variables – PHP Internals; Passing Variables By Reference; Passing Variables By Reference – PHP Internals; Namespacing; Variable Scope When Including Files; Type Juggling;
+
+Docx: -
+
+
+**Thoughts:** 
+Learning about static variables and passing by reference was especially cool.
+
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-variables-bootcamp/episode-14)
+
+
+
 ### Day 24: October 25, 2019
  
 **Today's Progress**: 
 
-KTC: PHP Variables Bootcamp: PHP Variables Intent and Naming; Variable Scope; Function Parameters; Variable – PHP Internals; Global Variables
+KTC: PHP Variables Bootcamp: Global Variables – PHP Internals;
 
 Docx: -
 
