@@ -3,11 +3,31 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 27: October 28, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP conditional expressions: Operator Truth Tables; Logical Operator Experiment; Operator Precedence Experiment;
+
+KTC: PHP String Building and Processing Basics: Lab Introduction;
+
+Docx: Operator Precedence - The What; 
+
+
+**Thoughts:** 
+Feeling a bit overwhelmed by the amount of things I have to grasp before I'm any good. Maybe that's just PMS speaking.
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-2)
+
+
+
 ### Day 26: October 27, 2019
  
 **Today's Progress**: 
 
 KTC: PHP conditional expressions: Anatomy of a Conditional Expression; Falsey Conditional Expression; Functions in the Conditional Expression; Assignment in the Conditional Expression; 
+
+Untrusted: Levels 1-5;
 
 Docx: -
 
