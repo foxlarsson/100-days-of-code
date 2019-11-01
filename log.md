@@ -3,6 +3,58 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 30: October 31, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: Embedding Variables in a String; Embedding Complex Variables; Concatenating Strings with a Dot; Concatenating and Assigning Shorthand; Formatting a String using Placeholders; Specifying Which Argument in a Formatted String;
+
+Docx: -
+
+
+**Thoughts:** I got a long and very detailed response from Tonya. It was an incredible feeling, like I truly have a mentor who cares. And the answer cleared up all my questions too.
+It turned out I was not only adding my code throu add_action, but also calling the function from within the plugin. And while the add_action way would have worked perfectly (because the loops_start hook is called later than wp_get_current_user function is loaded), when I was calling it from within my plugin, it was way too early. And there was no need to be calling it at the moment the plugin was running.
+While it felt like a really stupid mistake to be making, on the bright side, I think my understanding of how add_action works is finally solid. And I'm so grateful that Tonya took the time to help me understand.
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
+
+
+
+### Day 29: October 30, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: Embedding Variables in a String
+
+Docx: add_action - In Action, Namespacing, 
+
+
+**Thoughts:** 
+Got stuch on Embedding Variables in a String yesterday and only managed to figure stuff out today. I got the main content, no problem with that, but Tonya was using wp_get_current_user which went ok for her, and kept causing a fatal error for me. 
+I ended up figuring out why it wasn't working for me: wp_get_current_user is a pluggable function which means it is only loaded after the plugins. So if I want it to work in my plugin code I have to hook into init or plugins_loaded. (Took me forever to make that work, because I didn't realize that a namespaced add_action requires the full path, including the namespace to run. 
+Glad I've figured it all out now, but still confused why wp_get_current_user works without the hooks for Tonya, our set ups are supposed to be the same. Wrote her a letter (kind of proud of myself that I did, reaching out is totally scary).
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-2)
+
+
+
+### Day 28: October 29, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: 
+
+Docx: Operator Precedence; do_action The What, Real-Life Example, 
+
+
+**Thoughts:** 
+Feeling a bit overwhelmed by the amount of things I have to grasp before I'm any good. Maybe that's just PMS speaking.
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-2)
+
+
+
 ### Day 27: October 28, 2019
  
 **Today's Progress**: 
