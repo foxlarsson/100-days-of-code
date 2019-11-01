@@ -7,13 +7,29 @@ My format for the challenge is committing at least 15 minutes for 100 days to wo
  
 **Today's Progress**: 
 
+KTC: PHP String Building and Processing Basics: 
+
+Docx: -
+
+**Thoughts:** 
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
+
+
+
+### Day 30: October 31, 2019
+ 
+**Today's Progress**: 
+
 KTC: PHP String Building and Processing Basics: Embedding Variables in a String; Embedding Complex Variables; Concatenating Strings with a Dot; Concatenating and Assigning Shorthand; Formatting a String using Placeholders; Specifying Which Argument in a Formatted String;
 
 Docx: -
 
+Also spent some time migrating a bit more of the D website to the new theme and reading up on 301 redirects. I now also know that Nginx does not use an .htacess file. It never occured to me before to look into the differences between Nginx and Apache.  
+
 
 **Thoughts:** I got a long and very detailed response from Tonya. It was an incredible feeling, like I truly have a mentor who cares. And the answer cleared up all my questions too.
-It turned out I was not only adding my code throu add_action, but also calling the function from within the plugin. And while the add_action way would have worked perfectly (because the loops_start hook is called later than wp_get_current_user function is loaded), when I was calling it from within my plugin, it was way too early. And there was no need to be calling it at the moment the plugin was running.
+It turned out I was not only adding my code through add_action, but also calling the function from within the plugin. And while the add_action way would have worked perfectly (because the loops_start hook is called later than wp_get_current_user function is loaded), when I was calling it from within my plugin, it was way too early. And there was no need to be calling it at the moment the plugin was running.
 While it felt like a really stupid mistake to be making, on the bright side, I think my understanding of how add_action works is finally solid. And I'm so grateful that Tonya took the time to help me understand.
 
 **Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
@@ -27,6 +43,10 @@ While it felt like a really stupid mistake to be making, on the bright side, I t
 KTC: PHP String Building and Processing Basics: Embedding Variables in a String
 
 Docx: add_action - In Action, Namespacing, 
+
+Spent a lot of time looking for a good way to add a 3d perspective carousel slider to the D website portfolio page (I'd never use one for my own stuff but they really want one). Still thinking whether I'll be using a ready solution (the best match I've been able to find so far is [this](https://codecanyon.net/item/ultimate-3d-carousel-wordpress-plugin/18948914) on Codecanyon) vs adapting the opensource [Cloud 9 Carousel](https://github.com/specious/cloud9carousel). 
+
+The ultimate decision partly depends on how I want this thing to behave on mobile. With cloud 9 I would also have to invest time into making it swipable on touch devices. While it would be an interesting thing to get my hands into and I've found a pretty good guide, I am currently focusing on my php skills, so maybe it makes sense to just go with a ready-made solution for now.
 
 
 **Thoughts:** 
