@@ -3,15 +3,18 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
-### Day 30: October 31, 2019
+### Day 31: November 1, 2019
  
 **Today's Progress**: 
 
-KTC: PHP String Building and Processing Basics: 
+KTC: PHP String Building and Processing Basics: Has Substring;
 
 Docx: -
 
+Read about Nginx and Apache for work, read about SEO and 301 redirects. My local setup is running on Nginx, so I've decided to make a list of the redirects I will need and add them all when I'm back on Apache.
+
 **Thoughts:** 
+Got stuck for a hwile because of a coincidence in line numbers and me being not attentive enough. I thought the problem was in the code I was adding on line 24, and it turned out it was in the comments.php file on line 24. No idea how that got corrupted, maybe the dog walked on the keyboard. Seeing the number 24 I was really assuming it was in my new code because that was the line I was expecting problems from. Read error messages carefully.
 
 **Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
 
