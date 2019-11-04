@@ -3,6 +3,21 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+### Day 32: November 2, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: Replacing Substrings;
+
+Docx: -
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
+
+
+
 ### Day 31: November 1, 2019
  
 **Today's Progress**: 
