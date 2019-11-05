@@ -9,7 +9,7 @@ My format for the challenge is committing at least 15 minutes for 100 days to wo
  
 **Today's Progress**: 
 
-KTC: PHP String Building and Processing Basics: Replacing Substrings;
+KTC: PHP String Building and Processing Basics: Get the String’s Length; Character Set Encoding – It Matters!;
 
 Docx: 
 
