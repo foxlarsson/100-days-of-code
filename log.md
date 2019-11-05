@@ -3,6 +3,47 @@
 My format for the challenge is committing at least 15 minutes for 100 days to working through Knothecode.io. 100 days will be out on January 9th - or on February 18th if I count the weekends.
 
 
+
+
+### Day 34: November 5, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: Replacing Substrings;
+
+Docx: 
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
+
+
+
+### Day 33: November 4, 2019
+ 
+**Today's Progress**: 
+
+Linux day. J told me and A about basics of computer science. Slowly making our way up to how an OS works, then we'll be talking about Linux in particular. Hopefully doing this every Monday.
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+### ~Day 33~: November 3, 2019
+ 
+**Today's Progress**: 
+
+I decided to take a day off, so tomorrow is going to be day 33 instead of today. I was really tired and neede to clear my head.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
 ### Day 32: November 2, 2019
  
 **Today's Progress**: 
