@@ -5,6 +5,21 @@ My format for the challenge is committing at least 15 minutes for 100 days to wo
 
 
 
+### Day 35: November 6, 2019
+ 
+**Today's Progress**: 
+
+KTC: PHP String Building and Processing Basics: Character Set Encoding – It Matters!;
+
+Docx: 
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/php-string-building-processing-basics/episode-8)
+
+
+
 ### Day 34: November 5, 2019
  
 **Today's Progress**: 
