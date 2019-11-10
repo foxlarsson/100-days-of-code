@@ -5,6 +5,56 @@ My format for the challenge is committing at least 15 minutes for 100 days to wo
 
 
 
+### Day 38: November 9, 2019
+ 
+**Today's Progress**: 
+
+Learn Python by Building Five Games - Full Course: episode 1, building Pong game with Turtle
+
+KTC: Introduction to PHP Object-Oriented Programming (OOP) for WordPress: -
+
+Docx: -
+
+**Thoughts:** 
+
+
+**Link to work:** [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=218s)
+
+
+
+
+### Day 37: November 8, 2019
+ 
+**Today's Progress**: 
+
+Learn Python by Building Five Games - Full Course: episode 1, building Pong game with Turtle
+
+KTC: Introduction to PHP Object-Oriented Programming (OOP) for WordPress: -
+
+Docx: -
+
+**Thoughts:** 
+
+
+**Link to work:** [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=218s)
+
+
+
+### Day 36: November 7, 2019
+ 
+**Today's Progress**: 
+
+KTC: Introduction to PHP Object-Oriented Programming (OOP) for WordPress: Lab Introduction; What is Object-Oriented Programming (OOP)?; What is an object?; Meet the Class Blueprint;
+
+Docx: 
+
+**Thoughts:** 
+
+
+**Link to work:** [Current KTC video](https://knowthecode.io/labs/introduction-oop-wordpress/episode-4)
+
+
+
 ### Day 35: November 6, 2019
  
 **Today's Progress**: 
